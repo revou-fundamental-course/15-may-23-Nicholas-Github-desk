@@ -8,6 +8,19 @@ header {
     padding: 20px 20px;
 }
 
+.title {
+    font-weight: bold;
+    color: white;
+}
+
+.subtitle {
+    color: gray;
+    font-size:small;
+}
+
+.card {
+    background: white
+}
 
 .example-square {
     border: 1px solid red;
