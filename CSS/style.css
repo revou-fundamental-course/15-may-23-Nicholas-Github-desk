@@ -1,3 +1,14 @@
+body {
+    background: #d3d3d326;
+}
+
+header {
+    background: lightblue;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+
 .example-square {
     border: 1px solid red;
     height: 20px;
